@@ -14,6 +14,9 @@ Access the Tableau Dashboard on Tableau Public at the following link:
 
 [View Dashboard](https://public.tableau.com/app/profile/siddique.s/viz/HOSPITALITYANALYSIS/Dashboard2)
 
+![Dashboard 2](https://github.com/sidiquegithub/TABLEAU-HOSPITALITY-ANALYSIS/assets/110783832/694d2df6-3f5c-45ed-862b-50fdf66b546f)
+
+
 ---
 
 Feel free to explore the repository and reach out for any queries or contributions!
